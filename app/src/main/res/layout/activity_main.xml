@@ -18,7 +18,7 @@
             android:id="@+id/imageView"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="100dp"
+            android:layout_marginTop="80dp"
             android:layout_marginBottom="80dp"
             app:srcCompat="@drawable/daungoac" />
 
@@ -30,7 +30,7 @@
             android:background="@xml/vien"
             android:ems="10"
             android:inputType="textPersonName"
-            android:text="User Name"
+            android:text="Vy_2050531200361"
             android:textSize="20sp"
             android:visibility="visible"
             tools:visibility="visible" />
